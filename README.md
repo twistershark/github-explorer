@@ -1,6 +1,7 @@
 # Github Explorer
-![Github Explorer](src/assets/logo.svg)
+
 <p align="center">
+  <img src="https://github.com/twistershark/github-explorer/blob/master/src/assets/logo.svg" width="200px" >
   <strong>A React Application to search repositories and their information :computer: </strong>
 </p>
  
@@ -10,10 +11,9 @@
 #### The app has two pages, where one is used to search for repositories and the other one is for showing the repository information.
 
  <p align="center">
- ![Github Explorer](uploads/dashboard.png) 
- ![Github Explorer](uploads/repository.png)    
+ <img src="https://github.com/twistershark/github-explorer/blob/master/uploads/dashboard.png" alt="dashboard" /> 
+ <img src="https://github.com/twistershark/github-explorer/blob/master/uploads/repository.png" alt="repository" />
 </p>
-
 
 ## Prerequisites
 
