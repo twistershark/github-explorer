@@ -1,12 +1,13 @@
 # Github Explorer
-
 <p align="center">
   <img src="https://github.com/twistershark/github-explorer/blob/master/src/assets/logo.svg" width="200px" >
+</p>
+<p align="center">
   <strong>A React Application to search repositories and their information :computer: </strong>
 </p>
  
 
-## Screenshots:
+## 📷 Screenshots:
 
 #### The app has two pages, where one is used to search for repositories and the other one is for showing the repository information.
 
@@ -15,7 +16,7 @@
  <img src="https://github.com/twistershark/github-explorer/blob/master/uploads/repository.png" alt="repository" />
 </p>
 
-## Prerequisites
+## 📃 Prerequisites
 
 What things you need to install the software and how to install them:
 
@@ -30,18 +31,18 @@ Enter github-explorer folder and execute the following commands:
 2. ```npm start```
 
 
-## Built With
+## 🔨 Built With
 
 * [ReactJS](https://reactjs.org/) - A JavaScript library for building user interfaces
 * [TypeScript](https://www.typescriptlang.org/) - TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 
-## Contributing
+## 🤝 Contributing
 
 Feel free to contribute to this project. Every help is welcome!
 
 
-## License
+## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-Made with love by <a href="https://github.com/twistershark">Paulo Victor</a> rocket
+Made with love by <a href="https://github.com/twistershark">Paulo Victor</a> :rocket:
